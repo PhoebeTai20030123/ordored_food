@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sport</string>
+
+    <string name="yoga">瑜珈</string>
+    <string name="dance">跳舞</string>
+    <string name="boxing">拳擊</string>
+    <string name="plank">平板</string>
+    <string name="squat">深蹲</string>
+
+</resources>
